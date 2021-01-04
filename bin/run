@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+ROOT_PATH=$(cd "$(dirname "$0")"; cd ../;pwd)
+java -cp ${ROOT_PATH}/classes Main $*

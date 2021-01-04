@@ -1,0 +1,4 @@
+0: iconst_1
+1: istore_0
+2: iload_0
+3: ireturn
